@@ -1,4 +1,4 @@
-<h1 align="center">This is Krounosity</h1>
+<h1 align="center">This is Varnan Rathod</h1>
 
 [![An image of @krounosity's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/krounosity)](https://holopin.io/@krounosity)
 

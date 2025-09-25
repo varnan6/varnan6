@@ -4,7 +4,8 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=varnan6&theme=dracula" alt="varnan6" /></a> </p>
 
-## Technologies used till date
+## Tech Stack used till date
+I've used some of them only for my college practicals. Which ones, you ask? You might never know :P
 
 ### Programming Languages
 - Python
@@ -20,10 +21,9 @@
 - TensorFlow / Keras
 - Scikit-Learn
 - XGBoost / LightGBM
-- Optuna (hyperparameter tuning)
-- SHAP (model interpretability)
-- Prophet / Statsmodels (time series forecasting)
-- DiffusionDet / DEIM (research projects)
+- Optuna
+- SHAP
+- Statsmodels
 - NumPy / Pandas / SciPy
 - OpenCV / PIL
 

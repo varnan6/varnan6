@@ -2,7 +2,7 @@
 
 [![An image of @krounosity's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/krounosity)](https://holopin.io/@krounosity)
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=varnan6&theme=dracula" alt="varnan6" /></a> </p>
+![Varnan's GitHub stats](https://github-readme-stats.vercel.app/api?username=varnan6&show_icons=true&theme=radical)
 
 ## Tech Stack used till date
 I've used some of them only for my college practicals. Which ones, you ask? You might never know :P

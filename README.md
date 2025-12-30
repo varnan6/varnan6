@@ -54,12 +54,10 @@ I've used some of them only for my college practicals. Which ones, you ask? You 
 - [Autoencoder Based Credit Card Fraud Detection](https://github.com/varnan6/Autoencoder-Based-Credit-Card-Fraud-Detection)
 - [Lightcurve Analysis of the star TIC292404647](https://github.com/varnan6/TIC-292404647-lightcurves)
 - [Stock Forecasting Notebook](https://github.com/varnan6/Stock_Forecaster)
-- 
 
 ### College Projects
 - [Finmate: A personal finance tracking and analysis webapp](https://github.com/varnan6/Finmate)
 - [FinEd: A financial education webapp](https://github.com/varnan6/FinedCep)
-- 
 
 ### Club Projects
 - [Grandmaster's Jeopardy website](https://github.com/varnan6/Grandmaster-s_Jeopardy)

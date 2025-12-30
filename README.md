@@ -69,6 +69,7 @@ I've used some of them only for my college practicals. Which ones, you ask? You 
 
 - [College Practicals](https://github.com/varnan6/Practicals)
 - [Project Euler](https://github.com/varnan6/Project_Euler)
+- [College Placement Training](https://github.com/varnan6/College_Training)
 
 ### Pair Programming
 - [Sentimentinator: A text sentiment analysis website](https://github.com/varnan6/Sentimentinator)

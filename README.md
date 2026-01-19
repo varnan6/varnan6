@@ -13,6 +13,7 @@ I've used some of them only for my college practicals. Which ones, you ask? You 
 - Python
 - Java
 - C
+- SQL
 - JavaScript
 - HTML / CSS / SASS
 - Bash / Shell scripting
@@ -29,11 +30,12 @@ I've used some of them only for my college practicals. Which ones, you ask? You 
 - NumPy / Pandas / SciPy
 - OpenCV / PIL
 
-### Backend / APIs / Cloud
+### Backend / APIs / Cloud / Databases
 - Spring Boot / Spring
 - Express.js / Node.js
 - Kafka (streaming / real-time pipelines)
 - REST APIs / FastAPI / Flask
+- PostgreSQL
 - MongoDB
 - Docker
 - Postman (API testing)

@@ -1,10 +1,4 @@
-<h1 align="center">This is Varnan Rathod</h1>
-
-[![An image of @krounosity's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/krounosity)](https://holopin.io/@krounosity)
-
-[![Varnan's GitHub stats](https://github-readme-stats.vercel.app/api?username=varnan6)](https://github.com/varnan6/github-readme-stats)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=varnan6&layout=compact)
+![Metrics](/github-metrics.svg)
 
 ## Tech Stack used till date
 I've used some of them only for my college practicals. Which ones, you ask? You might never know :P

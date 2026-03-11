@@ -3,7 +3,6 @@
 ## Tech Stack used till date
 I've used some of them only for my college practicals. Which ones, you ask? You might never know :P
 
-<dev align = "center">
 ## Tech Stack
 
 | Tech | In the Thick Of | Can Jump Right Back In |

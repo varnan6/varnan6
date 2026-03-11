@@ -4,7 +4,7 @@
 I've used some of them only for my college practicals. Which ones, you ask? You might never know :P
 
 ### Programming Languages
-- Python
+- https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/python.png
 - Java
 - C
 - SQL

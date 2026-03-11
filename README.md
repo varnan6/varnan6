@@ -2,16 +2,79 @@
 
 ## Tech Stack used till date
 I've used some of them only for my college practicals. Which ones, you ask? You might never know :P
+
 <dev align = "center">
 ## Tech Stack
+
 | Tech | In the Thick Of | Can Jump Right Back In |
 |-----|-----|-----|
-| **Programming Languages** | <img width="51" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/python.png"/> <img width="51" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/bash.png"/> <img width="51" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/java.png"/> <img width="51" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/latex.png"/> | <img width="51" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/c.png"/> <img width="51" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/html.png"/> <img width="51" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/css.png"/> <img width="51" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/javascript.png"/> <img width="51" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/sass.png"/> |
-| **ML / DL / AI** | <img width="51" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/pytorch.png"/> <img width="51" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/tensorflow.png"/> <img width="51" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/keras.png"/> <img width="51" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/scikit_learn.png"/> <img width="51" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/xgboost.png"/> <img width="51" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/lightgbm.png"/> <img width="51" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/optuna.png"/> <img width="51" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/numpy.png"/> <img width="51" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/pandas.png"/> <img width="51" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/scipy.png"/> | <img width="51" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/statsmodels.png"/> <img width="51" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/opencv.png"/> <img width="51" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/pil.png"/> |
-| **Backend / Cloud / DB** | <img width="51" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/node_js.png"/> <img width="51" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/express.png"/> <img width="51" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/flask.png"/> <img width="51" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/fastapi.png"/> <img width="51" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/postgresql.png"/> <img width="51" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/mongodb.png"/> | <img width="51" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/spring.png"/> <img width="51" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/spring_boot.png"/> <img width="51" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/kafka.png"/> <img width="51" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/docker.png"/> |
-| **Frontend** |  | <img width="51" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/react.png"/> <img width="51" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/bootstrap.png"/> <img width="51" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/tailwind_css.png"/> <img width="51" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/figma.png"/> |
-| **Developer Tools** | <img width="51" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/git.png"/> <img width="51" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/github.png"/> <img width="51" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/visual_studio_code.png"/> <img width="51" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/jupyter_notebook.png"/> | <img width="51" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/eclipse.png"/> <img width="51" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/android_studio.png"/> |
-</dev>
+
+| **Programming Languages** |
+| |
+<img width="51" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/python.png"/>
+<img width="51" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/bash.png"/>
+<img width="51" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/java.png"/>
+<img width="51" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/latex.png"/>
+|
+<img width="51" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/c.png"/>
+<img width="51" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/html.png"/>
+<img width="51" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/css.png"/>
+<img width="51" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/javascript.png"/>
+<img width="51" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/sass.png"/>
+|
+
+| **ML / DL / AI** |
+|
+<img width="51" src="icons/pytorch.svg"/>
+<img width="51" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/tensorflow.png"/>
+<img width="51" src="icons/keras.png"/>
+<img width="51" src="icons/scikit-learn.svg"/>
+<img width="51" src="icons/xgboost.webp"/>
+<img width="51" src="icons/light-gbm.svg"/>
+<img width="51" src="icons/optuna.png"/>
+<img width="51" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/numpy.png"/>
+<img width="51" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/pandas.png"/>
+<img width="51" src="icons/scipy.svg"/>
+|
+<img width="51" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/statsmodels.png"/>
+<img width="51" src="icons/opencv.png"/>
+<img width="51" src="icons/pil.png"/>
+|
+
+| **Backend / Cloud / DB** |
+|
+<img width="51" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/node_js.png"/>
+<img width="51" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/express.png"/>
+<img width="51" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/flask.png"/>
+<img width="51" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/fastapi.png"/>
+<img width="51" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/postgresql.png"/>
+<img width="51" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/mongodb.png"/>
+|
+<img width="51" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/spring.png"/>
+<img width="51" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/spring_boot.png"/>
+<img width="51" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/kafka.png"/>
+<img width="51" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/docker.png"/>
+|
+
+| **Frontend** |
+|
+|
+<img width="51" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/react.png"/>
+<img width="51" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/bootstrap.png"/>
+<img width="51" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/tailwind_css.png"/>
+<img width="51" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/figma.png"/>
+|
+
+| **Developer Tools** |
+|
+<img width="51" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/git.png"/>
+<img width="51" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/github.png"/>
+<img width="51" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/visual_studio_code.png"/>
+<img width="51" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/jupyter_notebook.png"/>
+|
+<img width="51" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/eclipse.png"/>
+<img width="51" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/android_studio.png"/>
+|
 
 ## Works
 ### Data Science Projects

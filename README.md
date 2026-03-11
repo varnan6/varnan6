@@ -9,8 +9,7 @@ I've used some of them only for my college practicals. Which ones, you ask? You 
 | Tech | In the Thick Of | Can Jump Right Back In |
 |-----|-----|-----|
 
-| **Programming Languages** |
-| |
+| **Programming Languages** | 
 <img width="51" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/python.png"/>
 <img width="51" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/bash.png"/>
 <img width="51" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/java.png"/>
@@ -24,7 +23,6 @@ I've used some of them only for my college practicals. Which ones, you ask? You 
 |
 
 | **ML / DL / AI** |
-|
 <img width="51" src="icons/pytorch.svg"/>
 <img width="51" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/tensorflow.png"/>
 <img width="51" src="icons/keras.png"/>
@@ -42,7 +40,6 @@ I've used some of them only for my college practicals. Which ones, you ask? You 
 |
 
 | **Backend / Cloud / DB** |
-|
 <img width="51" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/node_js.png"/>
 <img width="51" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/express.png"/>
 <img width="51" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/flask.png"/>
@@ -58,7 +55,6 @@ I've used some of them only for my college practicals. Which ones, you ask? You 
 
 | **Frontend** |
 |
-|
 <img width="51" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/react.png"/>
 <img width="51" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/bootstrap.png"/>
 <img width="51" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/tailwind_css.png"/>
@@ -66,7 +62,6 @@ I've used some of them only for my college practicals. Which ones, you ask? You 
 |
 
 | **Developer Tools** |
-|
 <img width="51" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/git.png"/>
 <img width="51" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/github.png"/>
 <img width="51" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/visual_studio_code.png"/>

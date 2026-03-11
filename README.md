@@ -1,5 +1,6 @@
-![Metrics](/github-metrics.svg)
-
+<div align = "center">
+  ![Metrics](/github-metrics.svg)
+</div>
 ## Tech Stack used till date
 I've used some of them only for my college practicals. Which ones, you ask? You might never know :P
 

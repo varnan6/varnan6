@@ -13,6 +13,7 @@ I've used some of them only for my college practicals. Which ones, you ask? You 
 
 ## Works
 ### Data Science Projects
+- [Stats-de-Vendor: Vendor Analytics Agent](https://github.com/varnan6/Stats-de-Vendor)
 - [Social Media v/s Productivity Prediction Notebook](https://github.com/varnan6/Social-Media-vs-Productivity-Prediction-Pipeline)
 - [Autoencoder Based Credit Card Fraud Detection](https://github.com/varnan6/Autoencoder-Based-Credit-Card-Fraud-Detection)
 - [Lightcurve Analysis of the star TIC292404647](https://github.com/varnan6/TIC-292404647-lightcurves)
@@ -29,7 +30,6 @@ I've used some of them only for my college practicals. Which ones, you ask? You 
 - [E-Commerce Website frontend](https://github.com/varnan6/E-Commerce_Website)
 
 ## Learnings
-
 - [College Practicals](https://github.com/varnan6/Practicals)
 - [Project Euler](https://github.com/varnan6/Project_Euler)
 - [College Placement Training](https://github.com/varnan6/College_Training)

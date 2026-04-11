@@ -21,7 +21,7 @@ I've used some of them only for my college practicals. Which ones, you ask? You 
 - [Stock Forecasting Notebook](https://github.com/varnan6/Stock_Forecaster)
 
 ### College Projects
-- [Decision Modeling on Shark Tank India data](https://github.com/varnan6/Shark-tank-India-Decision-Modeling)
+- [Decision Modeling on Shark Tank India data](https://github.com/varnan6/Shark-tank-India-Decision-Modeling) 🌟 (in progress)
 - [Simulation of a DeMilitarized Zone (DMZ)](https://github.com/varnan6/dmz-simulation) ⭐
 - [Finmate: A personal finance tracking and analysis webapp](https://github.com/varnan6/Finmate) ⭐
 - [FinEd: A financial education webapp](https://github.com/varnan6/FinedCep)

@@ -50,6 +50,6 @@ I've used some of them only for my college practicals. Which ones, you ask? You 
 
 
 
-P.S.
-⭐ = Presentable, stable works
+P.S.   
+⭐ = Presentable, stable works    
 🌟 = Unique work/creation/ideation of my mind

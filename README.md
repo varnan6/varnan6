@@ -13,23 +13,23 @@ I've used some of them only for my college practicals. Which ones, you ask? You 
 
 ## Works
 ### Data Science Projects
-- [Transction Anomaly Detector](https://github.com/varnan6/transaction-anomaly-detector)
-- [Stats-de-Vendor: Vendor Analytics Agent](https://github.com/varnan6/Stats-de-Vendor)
+- [Transction Anomaly Detector](https://github.com/varnan6/transaction-anomaly-detector) ⭐
+- [Stats-de-Vendor: Vendor Analytics Agent](https://github.com/varnan6/Stats-de-Vendor) ⭐
 - [Social Media v/s Productivity Prediction Notebook](https://github.com/varnan6/Social-Media-vs-Productivity-Prediction-Pipeline)
 - [Autoencoder Based Credit Card Fraud Detection](https://github.com/varnan6/Autoencoder-Based-Credit-Card-Fraud-Detection)
-- [Lightcurve Analysis of the star TIC292404647](https://github.com/varnan6/TIC-292404647-lightcurves)
+- [Lightcurve Analysis of the star TIC292404647](https://github.com/varnan6/TIC-292404647-lightcurves) 🌟
 - [Stock Forecasting Notebook](https://github.com/varnan6/Stock_Forecaster)
 
 ### College Projects
 - [Decision Modeling on Shark Tank India data](https://github.com/varnan6/Shark-tank-India-Decision-Modeling)
-- [Simulation of a DeMilitarized Zone (DMZ)](https://github.com/varnan6/dmz-simulation)
-- [Finmate: A personal finance tracking and analysis webapp](https://github.com/varnan6/Finmate)
+- [Simulation of a DeMilitarized Zone (DMZ)](https://github.com/varnan6/dmz-simulation) ⭐
+- [Finmate: A personal finance tracking and analysis webapp](https://github.com/varnan6/Finmate) ⭐
 - [FinEd: A financial education webapp](https://github.com/varnan6/FinedCep)
 
 ### Club Projects
 - [Grandmaster's Jeopardy website](https://github.com/varnan6/Grandmaster-s_Jeopardy)
 - [Memory Game webgame](https://github.com/varnan6/Memory_Game)
-- [PokeDex](https://github.com/varnan6/PokeDex)
+- [PokeDex](https://github.com/varnan6/PokeDex) ⭐
 - [E-Commerce Website frontend](https://github.com/varnan6/E-Commerce_Website)
 
 ## Learnings
@@ -47,3 +47,9 @@ I've used some of them only for my college practicals. Which ones, you ask? You 
 - [Abdul Bari DSA Course](https://github.com/varnan6/DSABari)
 - [Basic Python for Astronomy: Youtube IUCAA course](https://github.com/varnan6/AstroPython)
 - [Full Stack Web Development by Angela Yu](https://github.com/varnan6/Angel_Yu_Udemy)
+
+
+
+P.S.
+⭐ = Presentable, stable works
+🌟 = Unique work/creation/ideation of my mind

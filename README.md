@@ -13,6 +13,7 @@ I've used some of them only for my college practicals. Which ones, you ask? You 
 
 ## Works
 ### Data Science Projects
+- [Transction Anomaly Detector](https://github.com/varnan6/transaction-anomaly-detector)
 - [Stats-de-Vendor: Vendor Analytics Agent](https://github.com/varnan6/Stats-de-Vendor)
 - [Social Media v/s Productivity Prediction Notebook](https://github.com/varnan6/Social-Media-vs-Productivity-Prediction-Pipeline)
 - [Autoencoder Based Credit Card Fraud Detection](https://github.com/varnan6/Autoencoder-Based-Credit-Card-Fraud-Detection)
@@ -20,6 +21,8 @@ I've used some of them only for my college practicals. Which ones, you ask? You 
 - [Stock Forecasting Notebook](https://github.com/varnan6/Stock_Forecaster)
 
 ### College Projects
+- [Decision Modeling on Shark Tank India data](https://github.com/varnan6/Shark-tank-India-Decision-Modeling)
+- [Simulation of a DeMilitarized Zone (DMZ)](https://github.com/varnan6/dmz-simulation)
 - [Finmate: A personal finance tracking and analysis webapp](https://github.com/varnan6/Finmate)
 - [FinEd: A financial education webapp](https://github.com/varnan6/FinedCep)
 

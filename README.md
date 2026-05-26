@@ -20,6 +20,9 @@ I've used some of them only for my college practicals. Which ones, you ask? You 
 - [Lightcurve Analysis of the star TIC292404647](https://github.com/varnan6/TIC-292404647-lightcurves) 🌟
 - [Stock Forecasting Notebook](https://github.com/varnan6/Stock_Forecaster)
 
+### Frontend/Backend/Full-Stack Projects
+- [BooKRUD: A Library Management App](https://github.com/varnan6/BooKRUD}
+
 ### College Projects
 - [Decision Modeling on Shark Tank India data](https://github.com/varnan6/Shark-tank-India-Decision-Modeling) 🌟 (in progress)
 - [Simulation of a DeMilitarized Zone (DMZ)](https://github.com/varnan6/dmz-simulation) ⭐
